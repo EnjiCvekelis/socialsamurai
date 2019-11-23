@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="993715d5-bec4-498c-a3da-65d33460ddec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layout/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layout/Header.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layout/Navbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layout/Navbar.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layout/Profile.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layout/Profile.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +18,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/layout" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -79,6 +66,9 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED,ALPHA_COMPARATOR" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -93,7 +83,9 @@
       <workItem from="1574091480351" duration="2887000" />
       <workItem from="1574115666726" duration="2099000" />
       <workItem from="1574187515865" duration="2934000" />
-      <workItem from="1574238206038" duration="655000" />
+      <workItem from="1574238206038" duration="1388000" />
+      <workItem from="1574337882804" duration="255000" />
+      <workItem from="1574424221361" duration="485000" />
     </task>
     <servers />
   </component>
